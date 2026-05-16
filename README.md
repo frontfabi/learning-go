@@ -7,3 +7,4 @@ Minha trilha de aprendizado golang
 - [Aula 3 - tipos de dados](https://github.com/frontfabi/learning-go/tree/aula/tipos-de-dados)
 - [Aula 4 - funções](https://github.com/frontfabi/learning-go/tree/aula/funcoes)
 - [Aula 5 - operadores](https://github.com/frontfabi/learning-go/tree/aula/operadores)
+- [Aula 6 - structs](https://github.com/frontfabi/learning-go/tree/aula/structs)
