@@ -8,3 +8,4 @@ Minha trilha de aprendizado golang
 - [Aula 4 - funções](https://github.com/frontfabi/learning-go/tree/aula/funcoes)
 - [Aula 5 - operadores](https://github.com/frontfabi/learning-go/tree/aula/operadores)
 - [Aula 6 - structs](https://github.com/frontfabi/learning-go/tree/aula/structs)
+- [Aula 7 - herança](https://github.com/frontfabi/learning-go/tree/aula/heranca)
