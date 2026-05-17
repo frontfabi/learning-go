@@ -11,3 +11,4 @@ Minha trilha de aprendizado golang
 - [Aula 7 - herança](https://github.com/frontfabi/learning-go/tree/aula/heranca)
 - [Aula 8 - arrays e slices](https://github.com/frontfabi/learning-go/tree/aula/arrays-slices)
 - [Aula 9 - ponteiros](https://github.com/frontfabi/learning-go/tree/aula/ponteiros)
+- [Aula 10 - arrays internos](https://github.com/frontfabi/learning-go/tree/aula/arrays-internos)
