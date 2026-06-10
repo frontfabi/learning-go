@@ -1,0 +1,14 @@
+README.md
+  h_9aea881378525b 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "87501fec387c5eb78aa787a5a6ffe6172f60e86b",
+  "prompts": {},
+  "humans": {
+    "h_9aea881378525b": {
+      "author": "Fabiana Rodri <fabianarod.rodrigues@mercadolivre.com>"
+    }
+  }
+}
