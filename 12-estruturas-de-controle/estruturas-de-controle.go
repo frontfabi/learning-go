@@ -6,7 +6,7 @@ import (
 
 // Condicionais
 func main() {
-	idade := 18
+	idade := 17
 
 	if idade >= 16 {
 		fmt.Println("Pode votar.")
@@ -19,4 +19,5 @@ func main() {
 	} else {
 		fmt.Println("É menor de idade.")
 	}
+	// A variável maiorDeIdade é declarada e inicializada dentro do if, e só existe dentro do escopo do if. Se tentarmos usar esta variável fora do if, teremos um erro de compilação.
 }
