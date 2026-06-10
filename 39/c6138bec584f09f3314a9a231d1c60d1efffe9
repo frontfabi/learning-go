@@ -1,0 +1,14 @@
+12-estruturas-de-controle/estruturas-de-controle.go
+  h_781d99589899ad 9,22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "39c6138bec584f09f3314a9a231d1c60d1efffe9",
+  "prompts": {},
+  "humans": {
+    "h_781d99589899ad": {
+      "author": "Fabi Rodrigues <frontfabi@gmail.com>"
+    }
+  }
+}
