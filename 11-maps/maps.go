@@ -30,6 +30,7 @@ func main() {
 	aluno["signo"] = map[string]string {
 		"nome": "Leão",
 	}
+
 	fmt.Println(aluno)
 	// Para adicionar um novo campo, basta usar a sintaxe de colchetes e atribuir um valor a ele. No caso, estamos adicionando um campo "signo" ao mapa "aluno", que é um mapa aninhado com uma chave "nome" e o valor "Leão".
 }
