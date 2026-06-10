@@ -14,3 +14,4 @@ Minha trilha de aprendizado golang
 - [Aula 10 - arrays internos](https://github.com/frontfabi/learning-go/tree/aula/arrays-internos)
 - [Aula 11 - maps](https://github.com/frontfabi/learning-go/tree/aula/maps)
 - [Aula 12 - estruturas de controle](https://github.com/frontfabi/learning-go/tree/aula/estruturas-controle)
+- [Aula 13 - switch](https://github.com/frontfabi/learning-go/tree/aula/switch)
