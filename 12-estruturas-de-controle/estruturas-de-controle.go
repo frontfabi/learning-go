@@ -5,7 +5,6 @@ import (
 )
 
 func diaDaSemana(dia int) string {
-	//em go, não precisamos da clausula break no final de cada case, pois o switch não "cai" para o próximo case automaticamente, como em outras linguagens. Se quisermos que isso aconteça, podemos usar a palavra-chave fallthrough.
 	var diaDaSemana string
 	switch dia {
 	  case 1:
@@ -22,7 +21,6 @@ func diaDaSemana(dia int) string {
 			diaDaSemana = "Sexta-feira"
 		case 7:
 			diaDaSemana = "Sábado"
-			fallthrough // o fallthrough faz com que o próximo case seja executado, mesmo que a condição não seja satisfeita. No caso, o case 7 será executado, e o case default também será executado.
 		default:
 			diaDaSemana = "Dia inválido"
 	}
