@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "248c8e786a0c63a9de0bc43aec44232a036bb500",
+  "prompts": {},
+  "humans": {
+    "h_781d99589899ad": {
+      "author": "Fabi Rodrigues <frontfabi@gmail.com>"
+    }
+  }
+}
